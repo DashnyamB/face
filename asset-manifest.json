@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/face/static/css/main.c7506eac.chunk.css",
+    "main.js": "/face/static/js/main.d0e7e906.chunk.js",
+    "main.js.map": "/face/static/js/main.d0e7e906.chunk.js.map",
+    "runtime-main.js": "/face/static/js/runtime-main.3505cee6.js",
+    "runtime-main.js.map": "/face/static/js/runtime-main.3505cee6.js.map",
+    "static/css/2.49be9a4e.chunk.css": "/face/static/css/2.49be9a4e.chunk.css",
+    "static/js/2.b7c324e2.chunk.js": "/face/static/js/2.b7c324e2.chunk.js",
+    "static/js/2.b7c324e2.chunk.js.map": "/face/static/js/2.b7c324e2.chunk.js.map",
+    "index.html": "/face/index.html",
+    "static/css/2.49be9a4e.chunk.css.map": "/face/static/css/2.49be9a4e.chunk.css.map",
+    "static/css/main.c7506eac.chunk.css.map": "/face/static/css/main.c7506eac.chunk.css.map",
+    "static/js/2.b7c324e2.chunk.js.LICENSE.txt": "/face/static/js/2.b7c324e2.chunk.js.LICENSE.txt",
+    "static/media/Background.a6f57c23.mp4": "/face/static/media/Background.a6f57c23.mp4",
+    "static/media/Filterpage.cb11bc07.mp4": "/face/static/media/Filterpage.cb11bc07.mp4",
+    "static/media/style.scss": "/face/static/media/Uni Sans Thin.946fca7c.otf",
+    "static/media/cool-menu-background-2560x1600.f63c8d23.jpg": "/face/static/media/cool-menu-background-2560x1600.f63c8d23.jpg",
+    "static/media/explore-bg.04b5fea9.jpg": "/face/static/media/explore-bg.04b5fea9.jpg",
+    "static/media/largehero-bg.54d25b29.jpg": "/face/static/media/largehero-bg.54d25b29.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3505cee6.js",
+    "static/css/2.49be9a4e.chunk.css",
+    "static/js/2.b7c324e2.chunk.js",
+    "static/css/main.c7506eac.chunk.css",
+    "static/js/main.d0e7e906.chunk.js"
+  ]
+}
